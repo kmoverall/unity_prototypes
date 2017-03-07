@@ -1,0 +1,16 @@
+﻿using UnityEngine;
+using UnityEditor;
+using System.Collections;
+using System.Collections.Generic;
+
+public class #SCRIPTNAME# : Editor {
+
+	void OnEnable () {
+	
+	}
+	
+	void OnInspectorGUI () {
+		serializedObject.Update();
+		serializedObject.ApplyModifiedProperties();
+	}
+}

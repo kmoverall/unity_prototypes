@@ -1,0 +1,8 @@
+using UnityEngine;
+using System.Collections;
+using System.Collections.Generic;
+
+//[CreateAssetMenu(fileName = "#SCRIPTNAME#", menuName = "Data/#SCRIPTNAME#", order = 90)]
+public class #SCRIPTNAME# : ScriptableObject {
+
+}
