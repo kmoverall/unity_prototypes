@@ -1,0 +1,3 @@
+[submodule "Assets/MonkeyMind"]
+	path = Assets/MonkeyMind
+	url = https://github.com/kmoverall/MonkeyMind_UnityAssets.git
